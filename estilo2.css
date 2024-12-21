@@ -1,0 +1,106 @@
+.tamaño {
+
+    width: 450px;
+    height: 450px;
+    margin: 100px;
+    margin-left: 480px;
+    margin-bottom: 35px;
+    border-radius: 19px 19px 19px 19px;
+    -webkit-border-radius: 19px 19px 19px 19px;
+    -moz-border-radius: 19px 19px 19px 19px;
+    border: 19px inset #ff50b6;
+    box-shadow: -77px -78px 54px -8px rgba(0, 0, 0, 0.94);
+    -webkit-box-shadow: -77px -78px 54px -8px rgba(0, 0, 0, 0.94);
+    -moz-box-shadow: -77px -78px 54px -8px rgba(0, 0, 0, 0.94);
+
+
+}
+
+.tamaño2 {
+    width: 450px;
+    height: 450px;
+    margin: 120px;
+    margin-left: 480px;
+    border-radius: 65px 3px 124px 3px;
+    -webkit-border-radius: 65px 3px 124px 3px;
+    -moz-border-radius: 65px 3px 124px 3px;
+    box-shadow: -5px 9px 0px -5px rgba(74, 145, 73, 0.75);
+    -webkit-box-shadow: -5px 9px 0px -5px rgba(74, 145, 73, 0.75);
+    -moz-box-shadow: -5px 9px 0px -5px rgba(74, 145, 73, 0.75);
+    margin-bottom: 35px;
+    border: 20px black solid;
+    margin-top: 0px;
+}
+
+.tamaño3 {
+    width: 450px;
+    height: 450px;
+    margin: 120px;
+    margin-left: 480px;
+    box-shadow: 10px 20px 30px 10px black;
+    margin-top: 0px;
+}
+
+.tamaño4 {
+    width: 450px;
+    height: 450px;
+    margin: 20px;
+    margin-left: 480px;
+    border-radius: 196px 196px 196px 196px;
+    -webkit-border-radius: 196px 196px 196px 196px;
+    -moz-border-radius: 196px 196px 196px 196px;
+    box-shadow: 10px 102px 302px 107px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: 10px 102px 302px 107px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 10px 102px 302px 107px rgba(0, 0, 0, 0.75);
+}
+
+.texto {
+    margin-top: 550px;
+    color: rgba(3, 220, 188, 0.86);
+    text-shadow: 90px 43px 6px rgba(0, 0, 0, 0.6);
+}
+
+#titulo {
+    font-size: 80px;
+    text-align: center;
+    font-family: "Playwrite ES Deco Guides", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.alanis {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    text-shadow: 4px 4px 2px rgba(0, 0, 0, 0.6);
+
+}
+
+.fin {
+    margin-top: 130px;
+    text-align: center;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p {
+
+    text-align: center;
+    font-family: "Playwrite ES Deco Guides", serif;
+    font-weight: 400;
+    font-style: normal;
+    background: #c5ff00;
+    background: radial-gradient(ellipse farthest-side at top center, #c5ff00 0%, #ff00fd 80%);
+    background: -webkit-radial-gradient(ellipse farthest-side at top center, #c5ff00 0%, #ff00fd 80%);
+    background: -moz-radial-gradient(ellipse farthest-side at top center, #c5ff00 0%, #ff00fd 80%);
+    font-size: 40px;
+    margin: 200px;
+    margin-top: 0px;
+
+}
+
+body {
+    background: #3c00ff;
+    background: radial-gradient(ellipse farthest-side at top center, #3c00ff 0%, #d2ff00 80%);
+    background: -webkit-radial-gradient(ellipse farthest-side at top center, #3c00ff 0%, #d2ff00 80%);
+    background: -moz-radial-gradient(ellipse farthest-side at top center, #3c00ff 0%, #d2ff00 80%);
+}
